@@ -1,0 +1,1 @@
+/home/roman/.local/share/JetBrains/Toolbox/apps/rustrover/bin/codecrafters-redis-rust/target/debug/redis-starter-rust: /home/roman/.local/share/JetBrains/Toolbox/apps/rustrover/bin/codecrafters-redis-rust/src/main.rs /home/roman/.local/share/JetBrains/Toolbox/apps/rustrover/bin/codecrafters-redis-rust/src/resp.rs
